@@ -1,4 +1,4 @@
-dset el.dat          
+dset ^el.dat          
 options big_endian
 title val
 undef -99.9999
